@@ -68,15 +68,3 @@ Requirement : Read Customers Data From CSV file and write into Database table
 5) Create Batch Configuration class
 
 6) Create RestController and launch job
-
-
-
-#### Git Hub Repo URL : https://github.com/rajitschool/sringboot_batch_app.git ####
-
-
-
-
-
-
-
-
